@@ -15,7 +15,7 @@ function alertFields(){
 
 //Reroutes to the page where you will generate a random idea
 function redirectToGeneratorPage(){
-    window.location = "https://cassmarcussen.github.io/ideaslist/generate-idea-page.html"
+    window.location = "https://cassmarcussen.github.io/ideaslist/generate-idea-page.html";
 }
 
 //Clear all of the fields to fill out
