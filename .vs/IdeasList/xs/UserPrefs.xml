@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{1D2FA55E-32A7-4B1C-8B50-96F83CAF473E}|Default">
+  <MonoDevelop.Ide.ItemProperties.IdeasList FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="IdeasList/SubmissionForm.html">
+    <Files>
+      <File FileName="IdeasList/SubmissionForm.html" Line="25" Column="8" />
+      <File FileName="IdeasList/SubmissionFormCss.css" Line="1" Column="1" />
+      <File FileName="IdeasList/SubmissionFormJs.js" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="IdeasList" expanded="True">
+            <Node name="IdeasList" expanded="True">
+              <Node name="SubmissionForm.html" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
