@@ -5,14 +5,15 @@
     "gulp-cli": "^2.2.0"
   },
   "devDependencies": {
-    "gulp-util": "latest",
+    "@fortawesome/fontawesome-free": "^5.10.1",
+    "gulp-coffee": "latest",
+    "gulp-concat": "latest",
+    "gulp-connect": "latest",
+    "gulp-csso": "latest",
+    "gulp-less": "latest",
     "gulp-pug": "latest",
     "gulp-sass": "latest",
-    "gulp-less": "latest",
-    "gulp-coffee": "latest",
     "gulp-uglify": "latest",
-    "gulp-csso": "latest",
-    "gulp-concat": "latest",
-    "gulp-connect": "latest"
+    "gulp-util": "latest"
   }
 }
